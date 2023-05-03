@@ -21,6 +21,6 @@ For starting local server you can use below command:
 
 
 ## Screenshots
+screenshots/talkgpt_conversation_page.jpg
 
-https://github.com/vikramsamak/TalkGPT/blob/main/screenshots/talkgpt_conversation_page.jpg
 
